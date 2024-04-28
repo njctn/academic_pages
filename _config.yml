@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "XplaiNLP"
 title_separator          : "-"
-name                     : &name "test123"
+name                     : &name "test123" # appears at the footer 
 description              : &description "personal description"
 url                      : https://njctn.github.io/academic_pages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ minimal_mistakes_skin    : "dark"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Test Name"
+  name             : "Test Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
